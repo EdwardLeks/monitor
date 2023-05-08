@@ -19,20 +19,22 @@
   },
   {
     "name": "DavaiKaks",
-    "url": "http://www.davaikaks.ee",
+    "url": "https://www.davaikaks.ee",
     "icon": "https://icons.duckduckgo.com/ip3/www.davaikaks.ee.ico",
     "slug": "davai-kaks",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.77%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "98.77%",
+    "uptimeYear": "98.77%",
     "time": 595,
     "timeDay": 595,
     "timeWeek": 595,
     "timeMonth": 595,
     "timeYear": 595,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-08": 0
+    }
   }
 ]
