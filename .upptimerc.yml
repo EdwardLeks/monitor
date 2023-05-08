@@ -4,7 +4,7 @@ sites: # List of endpoints to track
   - name: Google
     url: https://www.google.com
   - name: DavaiKaks
-    url: https://www.davaikaks.ee
+    url: http://www.davaikaks.ee
 assignees: # Users to assign downtime issues (optional)
   - AnandChowdhary
 status-website:
