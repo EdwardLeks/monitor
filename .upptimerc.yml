@@ -1,8 +1,8 @@
 owner: EdwardLeks # GitHub username
 repo: monitor # GitHub repository name
 sites: # List of endpoints to track
-  - name: Google
-    url: https://www.google.com
+  - name: DavaiKaks-API
+    url: https://davaikaks-admin.herokuapp.com/admin
   - name: DavaiKaks
     url: http://www.davaikaks.ee
 assignees: # Users to assign downtime issues (optional)
