@@ -24,7 +24,7 @@
     "url": "http://www.davaikaks.ee",
     "icon": "https://icons.duckduckgo.com/ip3/www.davaikaks.ee.ico",
     "slug": "davai-kaks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.66%",
@@ -36,6 +36,7 @@
     "timeMonth": 1351,
     "timeYear": 728,
     "dailyMinutesDown": {
+      "2023-08-25": 0,
       "2023-08-18": 235,
       "2023-05-20": 704,
       "2023-05-08": 19
