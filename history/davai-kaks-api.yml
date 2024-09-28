@@ -1,7 +1,7 @@
 url: https://davaikaks-admin.herokuapp.com/admin
-status: up
-code: 200
-responseTime: 347
-lastUpdated: 2024-09-27T23:10:38.264Z
+status: down
+code: 503
+responseTime: 152
+lastUpdated: 2024-09-28T16:31:27.816Z
 startTime: 2023-05-09T12:51:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
