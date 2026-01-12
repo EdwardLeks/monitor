@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/davaikaks-admin.herokuapp.com.ico",
     "slug": "davai-kaks-api",
     "status": "down",
-    "uptime": "51.93%",
+    "uptime": "51.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 231,
-    "timeDay": 277,
-    "timeWeek": 290,
-    "timeMonth": 277,
+    "timeDay": 175,
+    "timeWeek": 305,
+    "timeMonth": 278,
     "timeYear": 253,
     "dailyMinutesDown": {
-      "2026-01-11": 151,
+      "2026-01-12": 146,
+      "2026-01-11": 1440,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
@@ -379,8 +380,7 @@
       "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
-      "2025-01-13": 1440,
-      "2025-01-12": 1440
+      "2025-01-13": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.davaikaks.ee.ico",
     "slug": "davai-kaks",
     "status": "down",
-    "uptime": "51.83%",
+    "uptime": "51.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 538,
+    "time": 539,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 478,
+    "timeYear": 475,
     "dailyMinutesDown": {
-      "2026-01-11": 151,
+      "2026-01-12": 146,
+      "2026-01-11": 1440,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
@@ -763,8 +764,7 @@
       "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
-      "2025-01-13": 1440,
-      "2025-01-12": 1440
+      "2025-01-13": 1440
     }
   }
 ]
